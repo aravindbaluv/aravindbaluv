@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FAFA33&text=Aravind%20B%20&descAlign=50&desc=Full%20Stack%20Developer%20|%20Data%20Science%20Enthusiasts%20&descAlignY=63&fontAlignY=50">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
