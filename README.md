@@ -41,7 +41,6 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
 
@@ -80,15 +79,12 @@
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
-    <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
+    <td><b></b><br><i>Coming Soon...</i></td>
+    </td>
+    <td></td>
     </td>
     <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
+      k">View →</a>
     </td>
   </tr>
 
@@ -139,16 +135,9 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 10 | Ranking -5,000,000|
+| **CodeChef** | 293 | 893 |
 
-###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
-
----
 
 ##  GitHub Analytics
 
