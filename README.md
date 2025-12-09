@@ -81,10 +81,10 @@
   <tr>
     <td><b></b><br><i>Coming Soon...</i></td>
     </td>
-    <td></td>
+    <td>Coming Soon...</td>
     </td>
     <td>
-      k">View →</a>
+       Coming Soon...→</a>
     </td>
   </tr>
 
