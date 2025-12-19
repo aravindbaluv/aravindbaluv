@@ -93,7 +93,7 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 10 | Ranking -5,000,000|
+| **LeetCode** | 10 | -|
 | **CodeChef** | 293 | 893 |
 
 
